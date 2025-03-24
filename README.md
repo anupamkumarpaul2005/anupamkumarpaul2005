@@ -22,13 +22,13 @@ I'm a **Computer Science & Engineering** student at **IIIT Guwahati**, passionat
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/anupamkumarpaul2005)
 
 ### 🎨 Latest Project
-- 📰 **Fake News Detection using AI** - [GitHub Repo]([https://github.com/anupam/fake-news-detection](https://github.com/anupamkumarpaul2005/fake-news-classifier))
+- 📰 **Fake News Detection using AI** - [GitHub Repo]([https://github.com/anupamkumarpaul2005/fake-news-classifier](https://github.com/anupamkumarpaul2005/fake-news-classifier))
 
 ### ✨ GitHub Stats
-![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupam&show_icons=true&theme=tokyonight)
+![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupamkumarpaul2005&show_icons=true&theme=tokyonight)
 
 ### 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupamkumarpaul2005&layout=compact&theme=tokyonight)
 
 ### 🌈 Fun Facts
 - 📚 Huge **One Piece** & **Marvel** fan!
